@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Bhanu Thappa</h1>
+<h1 align="center">Hi 👋, I'm Bhanu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://bhanu-port.netlify.app/](https://bhanu-port.netlify.app/)
+- 👨‍💻 All of my projects are available at **[MySite](https://bhanu-port.netlify.app/)**
 
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **bhanuthapa252@gmail.com**
 
-- 📄 Know about my experiences [https://rb.gy/5jkmfy](https://rb.gy/5jkmfy)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1RGVWkV-t3jYjjbO1FpQez-Jsc_2Y1SpF/view?usp=drive_link)**
 
 <h3 align="left" display="inline">Connect with me: <a href="https://linkedin.com/in/bhanu-thappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu-thappa" height="30" width="40" /></a></h3>
 
