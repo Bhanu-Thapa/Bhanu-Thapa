@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript**
 
-- 📫 How to reach me **bhanuthapa252@gmail.com**
+- 📫 How to reach me **bhanuthapa210@gmail.com**
 
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1RGVWkV-t3jYjjbO1FpQez-Jsc_2Y1SpF/view?usp=drive_link)**
 
