@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **bhanuthapa210@gmail.com**
 
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1RGVWkV-t3jYjjbO1FpQez-Jsc_2Y1SpF/view?usp=drive_link)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1xXkGU2cdwagwd5l-QDBatSV54bTA32mu/view)**
 
 <h3 align="left" display="inline">Connect with me: <a href="https://linkedin.com/in/bhanu-thappa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhanu-thappa" height="30" width="40" /></a></h3>
 
