@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="450" src="https://miro.medium.com/v2/resize:fit:1358/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express Auth**
 
 - 👨‍💻 All of my projects are available at **[MySite](https://bhanu-port.netlify.app/)**
 
